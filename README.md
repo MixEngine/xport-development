@@ -1,6 +1,6 @@
 # MixEngine xPort 사용자 가이드
 
-![img/mxe_logo.png](img/mxe_logo.png)
+<img src="https://github.com/MixEngine/xport-development/blob/master/img/mxe_logo.png" alt="MixEngine" width="200" height="200" />
 
 [Download (MixEngine xPort v0.0.1 Alpha)](https://github.com/MixEngine/xport-development/releases/download/0.0.1/mixengine_xport.dmg)
 
