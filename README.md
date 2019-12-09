@@ -5,7 +5,7 @@
 [Download (MixEngine xPort v0.0.1 Alpha)](https://github.com/MixEngine/xport-development/releases/download/0.0.1/mixengine_xport.dmg)
 
 MixEngine xPort는 DJ들의 플레이리스트와 큐를 주도적으로 관리할 수 있도록 돕습니다.  
-※ 사용자 경험 개선을 위하여 해당 내용을 믹스엔진으로 전송하게 되며, 다운로드는 이에 동의한 것으로 간주됩니다.
+※ 사용자 경험 개선을 위하여 프로그램 사용성 데이터를 개발자 서버(MixEngine Inc.)에 전송하게 되며, 다운로드는 이에 동의한 것으로 간주됩니다.
 
 - [Menu](#menu)
 - [How to](#how-to)
