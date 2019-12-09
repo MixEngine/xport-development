@@ -1,16 +1,19 @@
-# xPort 사용자 가이드 (v2)
-
-# xPort
-
----
+# xPort 사용자 가이드
 
 xPort는 DJ들의 플레이리스트와 큐를 주도적으로 관리할 수 있도록 돕습니다.  
 
 ※ 사용자 경험 개선을 위하여 해당 내용을 믹스엔진으로 전송하게 되며, 다운로드는 이에 동의한 것으로 간주됩니다.
 
-# Menu
+- [Menu](#menu)
+- [How to](#how-to)
+    - [음원 및 플레이리스트 추가 (Import)](#음원-및-플레이리스트-추가-import)
+        - [Serato](#react-general-tutorials)
+        - [Traktor](#react-general-tutorials)
+        - [Rekordbox](#react-general-tutorials)
 
----
+
+
+# Menu
 
 xPort는 Library, Playlists 로 구성되어 있습니다.
 
@@ -20,9 +23,7 @@ xPort는 Library, Playlists 로 구성되어 있습니다.
 
 # How to
 
----
-
-### 음원 및 플레이리스트 추가 (Import)
+## 음원 및 플레이리스트 추가 (Import)
 
 ![img/import_1.png](img/import_1.png)
 
@@ -30,11 +31,11 @@ xPort는 Library, Playlists 로 구성되어 있습니다.
 
 **Settings** 메뉴의 **Import Music**에 위치한 **Add music to the library**를 클릭하거나 파일 혹은 폴더를 드래그하여 본인이 소유한 음원이나 Playlist를 추가할 수 있습니다.
 
-### 플레이리스트 불러오기 (Import)
+## 플레이리스트 불러오기 (Import)
 
 Serato, NI Traktor 3, Pioneer Rekordbox 에서 저장된 플레이리스트를 xPort로 불러올 수 있습니다.
 
-- F**rom Serato (*.crate)**
+### From Serato (*.crate)
 
     Serato의 플레이리스트 파일 경로는 ***음악* - _*Serato*_ - *Subcrates*** 입니다. 해당 폴더에 존재하는 (플레이리스트명).crate 파일을 xPort로 Import 시킬 경우 플레이리스트 내에 존재하는 라이브러리와 플레이리스트가 xPort에 추가됩니다.
 
@@ -44,7 +45,7 @@ Serato, NI Traktor 3, Pioneer Rekordbox 에서 저장된 플레이리스트를 x
 
     ![img/lib.png](img/lib.png)
 
-- F**rom NI Traktor 3 (*.nml)**
+### From NI Traktor 3 (*.nml)
 
     ![img/import_nit_1.png](img/import_nit_1.png)
 
@@ -56,7 +57,7 @@ Serato, NI Traktor 3, Pioneer Rekordbox 에서 저장된 플레이리스트를 x
 
     ![img/lib.png](img/lib.png)
 
-- F**rom Pioneer Rekordbox (*.xml)**
+### From Pioneer Rekordbox (*.xml)
 
     상단메뉴의 File - Export Collection in xml format을 통하여 원하는 경로에 플레이리스트 파일을 저장할 수 있습니다. 저장된 파일을 xPort로 Import 시킬 경우 플레이리스트 내에 존재하는 라이브러리와 플레이리스트가 xPort에 추가됩니다.
 
@@ -66,23 +67,23 @@ Serato, NI Traktor 3, Pioneer Rekordbox 에서 저장된 플레이리스트를 x
 
     ![img/lib.png](img/lib.png)
 
-### Export
+## 플레이리스트 내보내기 (Export)
 
 플레이리스트는 xPort를 통해 다른 소프트웨어와 호환되는 파일로 다시 내보낼 수 있습니다. 해당하는 플레이리스트를 보조 클릭 메뉴를 실행하여 각 소프트웨어에 해당하는 형태의 파일로 저장합니다.
 
 ![img/export_1.png](img/export_1.png)
 
-- **To Serato**
+### To Serato
 
     Export (serato)를 선택하여 해당 파일을 ***음악* - _*Serato*_ - *Subcrates*** 에 저장합니다. Serato를 실행시키면 해당 플레이리스트는 자동으로 Serato의 라이브러리 안에 보여집니다.
 
-- **To NI Traktor 3**
+### To NI Traktor 3
 
     ![img/export_nit_1.png](img/export_nit_1.png)
 
     Export (traktor)를 선택하여 해당 파일을 원하는 위치에 저장합니다. Traktor 3를 실행하여 Explorer내에 Playlists를 보조 선택 클릭한 뒤 Import Playlist를 선택한 뒤 해당 파일을 불러오면 Traktor의 Playlist 안에 추가됩니다.
 
-- **To Pioneer Rekordbox**
+### To Pioneer Rekordbox
 
     ![img/export_rek_1.png](img/export_rek_1.png)
 
@@ -97,8 +98,6 @@ Serato, NI Traktor 3, Pioneer Rekordbox 에서 저장된 플레이리스트를 x
     이후 상단메뉴의 Playlist에서 Import Playlist를 선택하면 해당 플레이리스트가 본인의  플레이리스트에 전달됩니다.
 
 # 유의사항
-
----
 
 1. 라이브러리에 이미 추가되어 있는 곡은 Import 통해 불러와도 기존의 내용에 덮어씌워지지 않습니다.
     - 해당하는 곡을 xPort의 라이브러리에서 제외시킨 후 다시 Import를 하면 정상적으로 로드됩니다.
