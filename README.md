@@ -1,8 +1,10 @@
-# xPort 사용자 가이드
+# MixEngine xPort 사용자 가이드
+
+![img/logo.png](img/logo.png)
 
 [Download (MixEngine xPort v0.0.1 Alpha)](https://github.com/MixEngine/xport-development/releases/download/0.0.1/mixengine_xport.dmg)
 
-xPort는 DJ들의 플레이리스트와 큐를 주도적으로 관리할 수 있도록 돕습니다.  
+MixEngine xPort는 DJ들의 플레이리스트와 큐를 주도적으로 관리할 수 있도록 돕습니다.  
 ※ 사용자 경험 개선을 위하여 해당 내용을 믹스엔진으로 전송하게 되며, 다운로드는 이에 동의한 것으로 간주됩니다.
 
 - [Menu](#menu)
@@ -20,7 +22,7 @@ xPort는 DJ들의 플레이리스트와 큐를 주도적으로 관리할 수 있
 
 # Menu
 
-xPort는 Library, Playlists 로 구성되어 있습니다.
+MixEngine xPort는 Library, Playlists 로 구성되어 있습니다.
 
 **≡ Library**는 본인이 소유한 음원을 검색을 통해 보다 빠른 Playlist 관리를 할 수 있습니다.
 
